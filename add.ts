@@ -1,7 +1,7 @@
 import createMathOperation from "../.internal/createMathOperation";
 
 /**
- * Add two numbers or string.
+ * Add two numbers.
  * @since 0.1.0
  * @category Math
  * @type {function add(number, number): number}
